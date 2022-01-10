@@ -1,0 +1,8 @@
+name: default_opt
+opt:
+  lr: 0.001
+  betas: [0.9, 0.98]
+  weight_decay: 0
+  warmup_steps: 10
+  algo: 'AdamW'
+  max_steps: 10e5

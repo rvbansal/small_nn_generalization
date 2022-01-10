@@ -1,0 +1,4 @@
+name: cube_sum_mod_dataset
+high_val: 97
+train_size: 1.0
+outlier_size: 0.0
